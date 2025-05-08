@@ -1,0 +1,7 @@
+ClientScript.RegisterClientScriptBlock(this.GetType(), "k", "swal('Record Customer package Deleted Successfully !!!!!!!', 'You clicked the button!', 'success')", true);
+
+
+ ClientScript.RegisterClientScriptBlock(this.GetType(), "k", "swal('Failed to delete the Customer package!', 'Something went wrong.', 'error')", true);
+              
+                
+               
